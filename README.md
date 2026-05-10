@@ -7,7 +7,7 @@
 
 ## 🌐 Live Site
 
-**[→ View Live Site](https://your-live-url-here.com)**  
+**[→ View Live Site](https://jannathbarveenr.github.io/petolifetask/)**  
 *(Deploy via GitHub Pages — instructions below)*
 
 ---
